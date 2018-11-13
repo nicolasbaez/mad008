@@ -29,7 +29,7 @@ void draw() {
     }
   }
   k++;
-  if (k<=360*4) {
+  if (k<=360) {
     saveFrame("gif/mad008-######.png");
   }
 }
